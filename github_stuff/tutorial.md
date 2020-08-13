@@ -1,3 +1,7 @@
+# Self Hosting Tutorial
+Many people want to self host their own version of our code because they want to theme it to their own standards by applying a custom profile picture and name to the bot, or want to make changes to our code, this will teach you how to do this.
+
+
 #### Step 1: Clone this repository
 Clone this repository onto your computer by either using **GitHub Desktop, downloading with HTTPS or directly downloading from this page.**
 
