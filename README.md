@@ -12,4 +12,4 @@ RainBot is an open source project currently looking for volunteers to help make 
 Support is very easily able to be provided to yourself or others needing help with our code by simply joining our Discord server or opening an issue on github.
 
 # Sounds great! Where do I start?
-If you're looking to simply add the bot to your server, and do not want to self host, you're able to add the bot **[here](https://discord.com/api/oauth2/authorize?client_id=530899015898759199&permissions=8&scope=bot).** Otherwise, follow [these steps](/github_stuff/tutorial.md) on how to self host the bot.
+If you're looking to simply add the bot to your server, and do not want to self host, you're able to add the bot **[here](https://discord.com/api/oauth2/authorize?client_id=530899015898759199&permissions=8&scope=bot).** Otherwise, follow **[these steps](/github_stuff/tutorial.md)** on how to self host the bot.
