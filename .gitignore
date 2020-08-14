@@ -130,3 +130,5 @@ dmypy.json
 
 # Other
 .ds_store
+img/assets/Affinity Photo
+.idea/
