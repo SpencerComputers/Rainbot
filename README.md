@@ -1,4 +1,4 @@
-<img src="/img/wordmark2.png" alt="RainBot Logo" width="500"/>
+<img src="/img/wordmark.png" alt="RainBot Logo" width="500"/>
 <br />
 RainBot is a work in progress, open-source Discord bot, designed to be fun, flexible and useful yet also able to complete tasks such as having the ability to execute moderation  commands.
 
