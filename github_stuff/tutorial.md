@@ -4,7 +4,7 @@ Many people will want to self host their own version of our code because they wa
 #### Step 1: Clone this repository
 Clone this repository onto your computer by either using **GitHub Desktop, downloading with HTTPS or directly downloading from this page.**
 
-<img src="/img/step1.png" alt="First Step" width="300"/>
+<img src="/img/step1.png" alt="First Step" width="1000"/>
 
 #### Step 2: Create An Application
 To make the code become a bot user and interact with the API, we need to create an application. To do this, navigate to [Discord's Developer Portal](https://discord.com/developers) and create a new application
